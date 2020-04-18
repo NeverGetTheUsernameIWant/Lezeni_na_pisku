@@ -1,14 +1,84 @@
 
 
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
 
 
 body {
     background-image: url(./source/pattern_gray.jpg);
 }
 
+
 .hero_image {
     background-image: url(./source/homepage_prechod.jpg);
     background-position: center;
     position: static;
+}
+
+
+h1 {
+    font-family: Gelasio;
+    color: #a8771a;
+    font-size: 70px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Gelasio;
+    color: black;
+    font-size: 42px;
+    text-align: center;
+}
+
+.nav-link {
+    color: black;
+    font-family: Gelasio;
+    font-size: small;
+}
+
+.text-kurziva-zlata {
+    text-align: center; 
+    color: #a8771a; 
+    font-family: Caveat;
+}
+
+.důvody-proč-na-skály-s-námi-text {
+    font-family: Galasio;
+    color: white;
+    font-size: 15px;
+}
+
+
+.aligncenter {
+    text-align: center;
+}
+
+.text-o-projektu {
+    font-family: Galasio;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+.text-kurzivou {
+    font-family: "Open Sans";
+    color: #929291;
+    font-size: 11px;
+    text-align: center;
+}
+
+footer {
+    background: black;
+    color: white
+    padding: 3em
+}
+
+.footer-container {
+    background-color: black;
+    padding: 2em;
+}
+
+.ikona-soc-sit {
+    size: 100px;
 }
