@@ -1,0 +1,14 @@
+
+
+
+
+
+body {
+    background-image: url(./source/pattern_gray.jpg);
+}
+
+.hero_image {
+    background-image: url(./source/homepage_prechod.jpg);
+    background-position: center;
+    position: static;
+}
