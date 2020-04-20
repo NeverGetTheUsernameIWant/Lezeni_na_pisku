@@ -1,4 +1,4 @@
-
+/*pokus*/
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
@@ -43,10 +43,19 @@ h2 {
     font-family: Caveat;
 }
 
+
+.kontakty {
+    font-family: "Open Sans";
+    color: #929291;
+    font-size: 10px;
+    text-align: center;
+}
+
+
 .důvody-proč-na-skály-s-námi-text {
     font-family: Galasio;
     color: white;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 
@@ -61,10 +70,10 @@ h2 {
     text-align: center;
 }
 
-.text-kurzivou {
+.text-sedy {
     font-family: "Open Sans";
     color: #929291;
-    font-size: 11px;
+    font-size: 10px;
     text-align: center;
 }
 
