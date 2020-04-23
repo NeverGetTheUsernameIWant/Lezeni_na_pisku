@@ -9,9 +9,17 @@ body {
     background-image: url(./source/pattern_gray.jpg);
 }
 
+.navbar-container {
+    background-color: #f4f1ec;
+}
+
+/*    proč toto nefunguje?? 
+a.nav-link: hover {
+    border-bottom: 2px solid #a8771a;
+} */
 
 .hero_image {
-    background-image: url(./source/homepage_prechod.jpg);
+    background-image: url(./source/homepage_prechod_2_2k.jpg);
     background-position: center;
     position: static;
 }
@@ -20,34 +28,36 @@ body {
 h1 {
     font-family: Gelasio;
     color: #a8771a;
-    font-size: 70px;
+    font-size: 9rem;
     text-align: center;
 }
 
 h2 {
     font-family: Gelasio;
     color: black;
-    font-size: 42px;
+    font-size: 5rem;
     text-align: center;
 }
 
 .nav-link {
     color: black;
     font-family: Gelasio;
-    font-size: small;
+    font-size: large;
 }
 
 .text-kurziva-zlata {
     text-align: center; 
     color: #a8771a; 
     font-family: Caveat;
+    font-size: 3rem;
+    margin-bottom: -21px;
 }
 
 
 .kontakty {
     font-family: "Open Sans";
     color: #929291;
-    font-size: 10px;
+    font-size: 1rem;
     text-align: center;
 }
 
